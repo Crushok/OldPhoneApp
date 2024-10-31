@@ -1,0 +1,11 @@
+{
+    "name": ".NET Core Launch (console)",
+    "type": "coreclr",
+    "request": "launch",
+    "program": "${workspaceFolder}/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll",
+    "args": [],
+    "cwd": "${workspaceFolder}",
+    "console": "integratedTerminal",
+    "stopAtEntry": false
+  }
+  
